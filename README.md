@@ -1,5 +1,7 @@
 # RESTful API Orchestrator: Custom Webhook to WhatsApp Gateway
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/944a1767-f379-49f2-a0b1-0fba56bc1360" />
+
 ## Executive Summary
 This project demonstrates a lightweight, high-performance API orchestration engine built in **n8n**. Utilizing pure HTTP protocols rather than pre-built application nodes, this workflow acts as a middleware server. It intercepts incoming POST payloads via Webhooks, processes conditional business logic, fetches external media via third-party APIs, and dynamically pushes the payload to a WhatsApp gateway (Fonnte) for automated messaging.
 
